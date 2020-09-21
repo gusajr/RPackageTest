@@ -10,4 +10,4 @@ Load the devtools package.
 
 library(devtools)
 
-install_github("gusajr/RPackageTest")
+install_github("gusajr/RPackageTest", subdir="RPackageTest")
